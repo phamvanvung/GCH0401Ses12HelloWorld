@@ -1,0 +1,10 @@
+C:\Users\Pham\Documents\Visual Studio 2017\Projects\GCH0401HelloWorld\InventoryDAL\bin\Debug\InventoryDAL.dll.config
+C:\Users\Pham\Documents\Visual Studio 2017\Projects\GCH0401HelloWorld\InventoryDAL\bin\Debug\InventoryDAL.dll
+C:\Users\Pham\Documents\Visual Studio 2017\Projects\GCH0401HelloWorld\InventoryDAL\bin\Debug\InventoryDAL.pdb
+C:\Users\Pham\Documents\Visual Studio 2017\Projects\GCH0401HelloWorld\InventoryDAL\bin\Debug\EntityFramework.dll
+C:\Users\Pham\Documents\Visual Studio 2017\Projects\GCH0401HelloWorld\InventoryDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pham\Documents\Visual Studio 2017\Projects\GCH0401HelloWorld\InventoryDAL\bin\Debug\EntityFramework.xml
+C:\Users\Pham\Documents\Visual Studio 2017\Projects\GCH0401HelloWorld\InventoryDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pham\Documents\Visual Studio 2017\Projects\GCH0401HelloWorld\InventoryDAL\obj\Debug\InventoryDAL.csprojResolveAssemblyReference.cache
+C:\Users\Pham\Documents\Visual Studio 2017\Projects\GCH0401HelloWorld\InventoryDAL\obj\Debug\InventoryDAL.dll
+C:\Users\Pham\Documents\Visual Studio 2017\Projects\GCH0401HelloWorld\InventoryDAL\obj\Debug\InventoryDAL.pdb
